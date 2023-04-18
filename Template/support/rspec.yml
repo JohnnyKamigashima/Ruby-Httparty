@@ -1,0 +1,5 @@
+##YAML Template
+---
+ambiente: homolog
+#ambiente: producao
+#ambiente: dev
